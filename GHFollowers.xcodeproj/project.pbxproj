@@ -17,6 +17,7 @@
 		07E2E0D52BF720680079EA3F /* FavoritesListVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07E2E0D42BF720680079EA3F /* FavoritesListVC.swift */; };
 		07E2E0D92BF724110079EA3F /* GFButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07E2E0D82BF724110079EA3F /* GFButton.swift */; };
 		07E2E0DB2BF726340079EA3F /* GFTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07E2E0DA2BF726340079EA3F /* GFTextField.swift */; };
+		07E2E0DD2BF73BA50079EA3F /* CreateFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07E2E0DC2BF73BA50079EA3F /* CreateFunctions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		07E2E0D42BF720680079EA3F /* FavoritesListVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoritesListVC.swift; sourceTree = "<group>"; };
 		07E2E0D82BF724110079EA3F /* GFButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFButton.swift; sourceTree = "<group>"; };
 		07E2E0DA2BF726340079EA3F /* GFTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFTextField.swift; sourceTree = "<group>"; };
+		07E2E0DC2BF73BA50079EA3F /* CreateFunctions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateFunctions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				07E2E0DA2BF726340079EA3F /* GFTextField.swift */,
 				07E2E0D22BF7203A0079EA3F /* SearchVC.swift */,
 				07E2E0D42BF720680079EA3F /* FavoritesListVC.swift */,
+				07E2E0DC2BF73BA50079EA3F /* CreateFunctions.swift */,
 			);
 			path = GHFollowers;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				07E2E0DB2BF726340079EA3F /* GFTextField.swift in Sources */,
+				07E2E0DD2BF73BA50079EA3F /* CreateFunctions.swift in Sources */,
 				07E2E0D52BF720680079EA3F /* FavoritesListVC.swift in Sources */,
 				07E2E0D92BF724110079EA3F /* GFButton.swift in Sources */,
 				07E2E0D32BF7203A0079EA3F /* SearchVC.swift in Sources */,

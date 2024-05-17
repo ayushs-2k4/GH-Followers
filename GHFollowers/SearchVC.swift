@@ -41,7 +41,7 @@ class SearchVC: UIViewController {
 
     func configureTextField() {
         view.addSubview(usernameTextField)
-        
+
         NSLayoutConstraint.activate([
             usernameTextField.topAnchor.constraint(equalTo: logoImageView.bottomAnchor, constant: 48),
             usernameTextField.leadingAnchor.constraint(equalTo: view.leadingAnchor, constant: 50),
@@ -49,10 +49,10 @@ class SearchVC: UIViewController {
             usernameTextField.heightAnchor.constraint(equalToConstant: 50)
         ])
     }
-    
-    func configureCallToActionButton(){
+
+    func configureCallToActionButton() {
         view.addSubview(callToActionButton)
-        
+
         NSLayoutConstraint.activate([
             callToActionButton.bottomAnchor.constraint(equalTo: view.bottomAnchor, constant: -100),
             callToActionButton.centerXAnchor.constraint(equalTo: view.centerXAnchor),
