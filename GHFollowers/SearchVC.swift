@@ -13,3 +13,7 @@ class SearchVC: UIViewController {
         view.backgroundColor = .systemPink
     }
 }
+
+#Preview {
+    SearchVC()
+}
